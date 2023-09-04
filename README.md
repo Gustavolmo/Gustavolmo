@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**Gustavolmo/Gustavolmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a fullstack web developer consultant for <Salt />
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning svelte while building my portfolio website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### The technologies I am most familiar with are:
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
