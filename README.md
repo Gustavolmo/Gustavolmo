@@ -48,3 +48,5 @@
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
 </div>
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Gustavolmo&count_private=true&show_icons=true)
+
