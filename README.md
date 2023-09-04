@@ -1,4 +1,8 @@
-### Hey 👋
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Gustavolmo&count_private=true&show_icons=true)
+
+<div><div/>
+
+### Hey 👋 <a href="[<LinkedInURL>](https://www.linkedin.com/in/gustavo-l-m-de-oliveira-037243108/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 - 🔭 I’m a fullstack web developer consultant for Salt in Stockholm
 - 🌱 I’m currently learning Svelte while building my portfolio website
@@ -47,6 +51,4 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
 </div>
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Gustavolmo&count_private=true&show_icons=true)
 
