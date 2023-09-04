@@ -43,8 +43,8 @@
 
 </details>
 
+##Other technologies I have used
 <details>
-<summary>Other technologies I have used</summary>
 
 <details>
 <summary>Cloud Hosting</summary>
