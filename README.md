@@ -1,4 +1,7 @@
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Gustavolmo&count_private=true&show_icons=true)
+<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Gustavolmo&count_private=true&show_icons=true) -->
+
+<img src="https://myreadme.vercel.app/api/embed/Gustavolmo?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 # 👋 Hey
 
