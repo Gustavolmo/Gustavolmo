@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary>🔧 More FullStack Tools</summary>
+<summary>🔧 More Languages & Tools</summary>
 
 <div style="display: flex; justify-content: space-between; ">
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary>🧪 Testing & Misc</summary>
+<summary>🧪 Testing & Others</summary>
 
 <div style="display: flex; justify-content: space-between; ">
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
