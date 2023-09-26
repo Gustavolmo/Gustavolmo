@@ -3,7 +3,9 @@
 
 - 🔭 I’m a fullstack web developer in Stockholm.
 - 🌱 I’m currently collaborating on an start-up called MangoMoji.
-- 
+
+<br>
+
 <!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Gustavolmo&count_private=true&show_icons=true) -->
 
 <img src="https://myreadme.vercel.app/api/embed/Gustavolmo?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
