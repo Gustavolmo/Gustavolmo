@@ -2,7 +2,7 @@
 # 👋 Hey
 
 - 🔭 I’m a fullstack web developer in Stockholm.
-- 🌱 I’m currently collaborating on an start-up called MangoMoji.
+- 🌱 I’m currently collaborating on an start-up.
 
 <br>
 
