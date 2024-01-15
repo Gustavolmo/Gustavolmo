@@ -1,8 +1,9 @@
 
 # 👋 Hey
 
-- 🔭 I’m a fullstack developer based in Stockholm.
-- 🌱 I’m currently collaborating on a start-up.
+- 🔭 Fullstack developer based in Stockholm.
+- 🌱 Currently collaborating on a start-up.
+- 👨🏻‍💻 I work as a consultant
 
 <br>
 
