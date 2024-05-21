@@ -2,7 +2,7 @@
 # 👋 Hey
 
 - 🔭 Fullstack developer based in Stockholm.
-- 🌱 Currently collaborating on a start-up.
+- 🌱 Currently developing Bootlr.com on my spare time.
 - 👨🏻‍💻 I work as a consultant
 
 <br>
