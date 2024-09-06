@@ -1,6 +1,7 @@
 
 # 👋 Hi
-- 🔭 Fullstack based in Stockholm.
+🔭 I am a fullstack dev based in Stockholm
+- C#, Go, Typescript
 
 <br>
 
