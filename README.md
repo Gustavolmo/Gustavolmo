@@ -1,6 +1,5 @@
 
 # 👋 Hi
-
 - 🔭 Fullstack based in Stockholm.
 
 <br>
